@@ -1,0 +1,23 @@
+{
+  "name": "vite_project-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EleonoraDellamico/Vite_project-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EleonoraDellamico/Vite_project-/issues"
+  },
+  "homepage": "https://github.com/EleonoraDellamico/Vite_project-#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
+}
